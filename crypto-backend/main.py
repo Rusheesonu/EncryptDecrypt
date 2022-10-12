@@ -134,9 +134,9 @@ def decrypt_rest():
     
     return jsonify(decrypt_value)
 
-# @app.before_first_request
-# def before_first_request():
-#     generate_rsakeys()
+@app.before_first_request
+def before_first_request():
+    generate_rsakeys()
 
 if __name__ == '__main__':
     # rsa_privatekey, rsa_publickey = generate_rsakeys()
