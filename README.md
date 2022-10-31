@@ -17,16 +17,16 @@
  
  Encrypt:
   
- ![alt text](https://github.com/Rusheesonu/crypto_tracker/blob/master/Screenshot%20from%202022-10-31%2016-28-30.png "Description goes here")
+ ![alt text](https://github.com/Rusheesonu/EncryptDecrypt/blob/main/Encrypt.png "Description goes here")
  
  Decrypt: 
  
- ![alt text](https://github.com/Rusheesonu/crypto_tracker/blob/master/Screenshot%20from%202022-10-31%2016-28-30.png "Description goes here")
+ ![alt text](https://github.com/Rusheesonu/EncryptDecrypt/blob/main/Decrypt.png "Description goes here")
  
  Sign: 
  
- ![alt text](https://github.com/Rusheesonu/crypto_tracker/blob/master/Screenshot%20from%202022-10-31%2016-28-30.png "Description goes here")
+ ![alt text](https://github.com/Rusheesonu/EncryptDecrypt/blob/main/Sign.png "Description goes here")
  
  Verify:
  
- ![alt text](https://github.com/Rusheesonu/crypto_tracker/blob/master/Screenshot%20from%202022-10-31%2016-28-30.png "Description goes here")
+ ![alt text](https://github.com/Rusheesonu/EncryptDecrypt/blob/main/Verify.png "Description goes here")
