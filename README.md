@@ -1,5 +1,8 @@
 # Encrypt Decrypt 
 
+Backend - Python, Flask API
+Frontend - Vue JS 
+
 1 . Encrypt - Encrypts Any jsoon value.
 2 . Decrypt - Decrypts Any encryptped Json.
 3 . Sign - Signs any plain text or a json object.
